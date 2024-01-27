@@ -184,7 +184,7 @@ return [
         'store' => 'default',
     ],
 
-    'permission' => [
+    'permissions' => [
         'categories' => [
             'publish' => 'publish categories',
             'edit' => 'edit categories',
@@ -206,6 +206,6 @@ return [
         'account' => [
             'edit' => 'edit account',
             'delete' => 'delete account',
-        ]
-    ]
+        ],
+    ],
 ];
